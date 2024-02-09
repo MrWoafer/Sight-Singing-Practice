@@ -1,6 +1,6 @@
 ![Sight-Singing Practice 09_02_2024 20_40_06](https://github.com/MrWoafer/Sight-Singing-Practice/assets/159387325/6d025314-e8e8-4a44-8a1b-5663381dc68f)
 
-# Sight-Singing-Practice
+# Sight Singing Practice
 
 A program to help practise sheet music sight-singing through simple games. Includes a small custom music theory library.
 
