@@ -18,9 +18,17 @@ Written in C# with Unity.
 
 # Learning Games
 * Name key signature
+  * Option for major, minor or mixed
 * Name note
 * Name scale degree
 * Plot scale degree
 * Name interval
+  * Option to test quality too (e.g. 3rd vs major 3rd)
 * Sing interval
+  * Option for ascending, descending or mixed
+  * Option to always start from tonic or not
 * Sing melody
+  * Randomly generates a melody based on the chosen pitch/rhythm difficulty
+  * Plays the melody back
+  * Option to start on tonic or not
+  * Option to display scale degrees on the notes
