@@ -1,6 +1,6 @@
 # Sight-Singing-Practice
 
-A program to help practice sheet music sight-singing through simple games. Includes a small custom music theory library. Renders sheet music.
+A program to help practice sheet music sight-singing through simple games. Includes a small custom music theory library. Also renders sheet music.
 
 Written in C# with Unity.
 
